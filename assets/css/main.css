@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 /*
-	Bioengineering Research Group by HTML5 UP
+	Energy Research Group by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -2335,7 +2335,7 @@ h1 {
 		width: 100%;
 		z-index: 10001;
 		color: #fff;
-		background: url("images/bg04.jpg");
+		background: url("images/gallery_background_10.jpg");
 		box-shadow: inset 0px -20px 70px 0px rgba(200, 220, 245, 0.1), inset 0px -1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 7px 0px rgba(0, 0, 0, 0.6);
 		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 	}
